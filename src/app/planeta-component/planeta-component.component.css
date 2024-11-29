@@ -1,0 +1,20 @@
+table {
+  border: 2px solid black;
+  border-radius: 15px;
+}
+
+td{
+  border: 2px solid purple;
+  border-radius: 15px;
+  padding: 8px;
+}
+
+.titulo {
+  background-color: rgb(178, 109, 199);
+  font-weight: bold;
+}
+
+.titulo1 {
+  background-color: rgb(202, 149, 218);
+  font-weight: bold;
+}
